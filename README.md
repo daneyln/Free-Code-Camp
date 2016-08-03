@@ -8,6 +8,8 @@ Why have I finally decided to put it in public? Well... after so much thought...
 
 Feel free to contact me and Happy coding!
 
+https://cloud.githubusercontent.com/assets/10708158/17359721/759f816a-599a-11e6-83a6-70ff0b3747a2.jpg
+
 Daney Lui
 
 Daney  
