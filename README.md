@@ -8,6 +8,8 @@ Why have I finally decided to put it in public? Well... after so much thought...
 
 Feel free to contact me and Happy coding!
 
+file:///E:/%E5%BF%AB%E7%9B%98/Person/M/photos/Daney1.jpg?raw=true
+
 Daney Lui
 
 Daney  
