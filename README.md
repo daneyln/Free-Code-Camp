@@ -8,8 +8,6 @@ Why have I finally decided to put it in public? Well... after so much thought...
 
 Feel free to contact me and Happy coding!
 
-https://avatars1.githubusercontent.com/u/10708158?v=3&s=140
-
 Daney Lui
 
 Daney  
