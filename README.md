@@ -10,6 +10,6 @@ Feel free to contact me and Happy coding!
 
 Daney Lui
 
-Daney
-<a href=""https://daneylui.com">daneylui.com</a>
+Daney  
+<a href=""https://daneylui.com">daneylui.com</a>  
 <a href="mailto:daney@daneylui.com">Email</a>
