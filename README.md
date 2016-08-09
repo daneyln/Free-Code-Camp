@@ -4,7 +4,7 @@ Welcome to Daney's Free Code Camp Evolution!
 
 This is my journal as I go accomplishing the Challenges and Project on Free Code Camp
 
-Why have I finally decided to put it in public? Well... after so much thought... to record my progress with all the errors and everything. So I can learn from my own mistakes and hopefully can also help my friends with... and anyone really.
+Why have I finally decided to put it in public? Well... after so much thought... to record my learning process and progress. So I can improve upon and hopefully can also help my friends with... and anyone really.
 
 Feel free to contact me and Happy coding!
 
