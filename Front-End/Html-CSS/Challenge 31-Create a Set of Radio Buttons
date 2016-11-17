@@ -1,5 +1,5 @@
 <!--For those times when we  need only a "yes" or "no" answer-->
-<!--radio buttons for questions where we want the user to give only on answer. Ech radio button should be nesteds withing "label" element-->
+<!--radio buttons for questions where we want the user to give only one answer. Ech radio button should be nesteds withing "label" element-->
 
 <link href="http://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 
